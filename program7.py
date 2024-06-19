@@ -14,6 +14,12 @@ n = int(input("Enter the index: "))
 if len(string)<n or string == "":
     print(string)
 
+
 else:
-    a =  string - string[n]
-    print(a)
+    strr = ""
+    for i in range(len(string)): # 0,1,2,3,4
+        if i != n:
+            strr+=string[i]
+
+    print(strr)
+            
