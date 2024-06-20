@@ -27,3 +27,5 @@ def check_pangram(string):
 str = input("Enter the string: ").lower()
 
 print(check_pangram(str))
+
+
