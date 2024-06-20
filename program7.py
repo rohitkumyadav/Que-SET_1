@@ -1,6 +1,6 @@
 ''''
 📌Description
-Write a Python program that prints the string s without the character at index n.
+Write a Python program that prints the string s witho[ut the character at index n.
 
 If the index n is out of range, print the string s intact.
 
